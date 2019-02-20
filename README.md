@@ -2,6 +2,11 @@
 
 > JavaScript is a great language for writing quick apps that require user interaction and saving information
 
+## Links
+
+- [Demo](https://profcase.github.io/js-gui-storage/)
+- [Source](https://github.com/profcase/js-gui-storage)
+
 ## Requirements
 
 - A browser that supports localStorage (e.g., Chrome)
