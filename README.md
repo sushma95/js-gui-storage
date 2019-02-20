@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- A browser (e.g., Chrome)
+- A browser that supports localStorage (e.g., Chrome)
 - A text editor (e.g., VS Code or Notepad++, or Chrome)
 
 ## Benefits
@@ -19,8 +19,10 @@
 ## Resources
 
 - [Bootstrap Material Design CDN](https://mdbootstrap.com/md-bootstrap-cdn/)
+- [HTML Validator](https://validator.w3.org/)
+- [JavaScript Standard Style Validator](https://standardjs.com/demo.html)
 
-## See Also 
+## See Also
 
 - [js-console](https://github.com/profcase/js-console)
 - [js-gui](https://github.com/profcase/js-gui)
