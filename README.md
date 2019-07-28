@@ -9,11 +9,6 @@
 
 ## Requirements
 
-- A browser (e.g., Firefox or Chrome)
-- A text editor (e.g., VS Code or Notepad++, or Chrome)
-
-## Requirements
-
 - A browser that supports localStorage (e.g., Chrome)
 - A text editor (e.g., VS Code or Notepad++, or Chrome)
 
