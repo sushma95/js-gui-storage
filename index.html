@@ -135,8 +135,9 @@
       const j = parseInt(document.querySelector('#secondNumber').value)
       console.log('j=' + j)
       const ct = origCount + 1
-      const ans = s + ', your sum is ' + add(i, j) + '. This has been run ' + ct + ' times.'
+      const ans = `   ${s} , your sum is ${add(i,j)}. This has been run  ${ct}  times.`
       document.querySelector('#result').innerHTML = ans
+
       localStorage.setItem('countOfClicks', ct)  // define a string key to store + its value
       localStorage.setItem('guest', s)
       localStorage.setItem('number1', i)
